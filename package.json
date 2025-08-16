@@ -1,0 +1,24 @@
+{
+  "name": "more-shadcn",
+  "version": "0.1.0",
+  "description": "A collection of custom React components extending shadcn/ui - Ready-to-use, built with Tailwind CSS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/virgiawanly/more-shadcn.git"
+  },
+  "keywords": [
+    "shadcn",
+    "react",
+    "tailwind"
+  ],
+  "author": "virgiawanly",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/virgiawanly/more-shadcn/issues"
+  },
+  "homepage": "https://github.com/virgiawanly/more-shadcn#readme"
+}
