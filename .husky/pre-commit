@@ -1,1 +1,2 @@
-pnpm test
+npm run registry:build
+git add ./public/r
