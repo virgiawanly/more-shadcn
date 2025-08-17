@@ -1,0 +1,18 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry.json",
+  "name": "More Shadcn Registry",
+  "homepage": "https://github.com/virgiawanly/more-shadcn",
+  "items": [
+    {
+      "name": "async-select",
+      "description": "A select component that fetches options asynchronously.",
+      "type": "registry:ui",
+      "files": [
+        {
+          "path": "src/registry/new-york/async-select.tsx",
+          "type": "registry:ui"
+        }
+      ]
+    }
+  ]
+}
